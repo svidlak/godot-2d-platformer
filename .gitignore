@@ -1,4 +1,4 @@
 # Godot 4+ specific ignores
 .godot/
 android/
-.HTML_EXPORT
+.HTML_EXPORT/*
